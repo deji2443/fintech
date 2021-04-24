@@ -6,6 +6,7 @@
 
 #### `Choice of design elements (color and fonts)`
 
+- Icon Font : FontAwesomeIcons
 - Font-family: "DM Sans", sans-serif
 - Main Text Color : #000
 - Button Color : #F86011
