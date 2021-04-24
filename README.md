@@ -6,4 +6,8 @@
 
 #### `Choice of design elements (color and fonts)`
 
--
+- Font-family: "DM Sans", sans-serif
+- Main Text Color : #000
+- Button Color : #F86011
+- Title Text Color : #072366
+- Link Color : #1D2547
