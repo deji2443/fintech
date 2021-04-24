@@ -4,7 +4,7 @@
 
 - This design is based on Bootstrap Framework for effective mobile responsiveness.
 
-#### `Choice of design elements (color and fonts)`
+#### `Choice of design elements (colors and fonts)`
 
 - Icon Font : FontAwesomeIcons
 - Font-family: "DM Sans", sans-serif
